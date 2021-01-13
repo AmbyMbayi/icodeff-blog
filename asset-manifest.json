@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/icodeff-blog/static/css/main.8aa55fba.chunk.css",
+    "main.js": "/icodeff-blog/static/js/main.225e9646.chunk.js",
+    "main.js.map": "/icodeff-blog/static/js/main.225e9646.chunk.js.map",
+    "runtime-main.js": "/icodeff-blog/static/js/runtime-main.217f1ce2.js",
+    "runtime-main.js.map": "/icodeff-blog/static/js/runtime-main.217f1ce2.js.map",
+    "static/js/2.8bd4a730.chunk.js": "/icodeff-blog/static/js/2.8bd4a730.chunk.js",
+    "static/js/2.8bd4a730.chunk.js.map": "/icodeff-blog/static/js/2.8bd4a730.chunk.js.map",
+    "index.html": "/icodeff-blog/index.html",
+    "static/css/main.8aa55fba.chunk.css.map": "/icodeff-blog/static/css/main.8aa55fba.chunk.css.map",
+    "static/js/2.8bd4a730.chunk.js.LICENSE.txt": "/icodeff-blog/static/js/2.8bd4a730.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.217f1ce2.js",
+    "static/js/2.8bd4a730.chunk.js",
+    "static/css/main.8aa55fba.chunk.css",
+    "static/js/main.225e9646.chunk.js"
+  ]
+}
