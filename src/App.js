@@ -7,6 +7,9 @@ function App() {
   const first_name = "Ambrose"
   const person = {name: "Kev", age: "40"}
   const link_site = "www.google.com"
+  const branch = "iss2"
+  
+  const last_name ="Amby"
   return (
     <div className="App">
       <h1>{title}</h1>
@@ -15,6 +18,9 @@ function App() {
       <p>You are {person.age} years</p>
       <p>{first_name}</p>
       <a href={link_site}>Google site</a>
+      <p>{branch}</p>
+      
+      <p>{last_name}</p>
     </div>
   );
 }
