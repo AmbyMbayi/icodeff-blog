@@ -102,3 +102,18 @@
   cursor: pointer;
   border-radius: 8px;
 }
+
+.not-found button {
+  background-color: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.not-found a {
+  text-decoration: none;
+  color: #fff;
+}
