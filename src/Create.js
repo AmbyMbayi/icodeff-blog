@@ -3,12 +3,18 @@ import { useState } from "react";
 const Create = () => {
   const [title, setTitle] = useState("");
   const [body, setBody] = useState("");
-  const [author, setAuthor] = useState("Amby");
+  const [author, setAuthor] = useState("amby");
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    const blog = { title, body, author };
+    console.log(blog);
+  };
 
   return (
     <div className="create">
       <h2>Create Blog</h2>
-      <form>
+      <form onSubmit={handleSubmit}>
         <label>Blog title:</label>
         <input
           type="text"
@@ -17,7 +23,7 @@ const Create = () => {
           onChange={(e) => setTitle(e.target.value)}
           required
         />
-        <label for="">Blog title:</label>
+        <label>Blog title:</label>
         <textarea
           name="title"
           value={body}
@@ -30,9 +36,6 @@ const Create = () => {
           <option value="amby">amby</option>
         </select>
         <button>Add Blog</button>
-        <p>{title}</p>
-        <p>{body}</p>
-        <p>{author}</p>
       </form>
     </div>
   );
