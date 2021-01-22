@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/icodeff-blog/static/css/main.78982062.chunk.css",
-    "main.js": "/icodeff-blog/static/js/main.0008ac26.chunk.js",
-    "main.js.map": "/icodeff-blog/static/js/main.0008ac26.chunk.js.map",
+    "main.css": "/icodeff-blog/static/css/main.dd1cef59.chunk.css",
+    "main.js": "/icodeff-blog/static/js/main.131d0233.chunk.js",
+    "main.js.map": "/icodeff-blog/static/js/main.131d0233.chunk.js.map",
     "runtime-main.js": "/icodeff-blog/static/js/runtime-main.217f1ce2.js",
     "runtime-main.js.map": "/icodeff-blog/static/js/runtime-main.217f1ce2.js.map",
-    "static/js/2.373edfd8.chunk.js": "/icodeff-blog/static/js/2.373edfd8.chunk.js",
-    "static/js/2.373edfd8.chunk.js.map": "/icodeff-blog/static/js/2.373edfd8.chunk.js.map",
+    "static/js/2.b0a11692.chunk.js": "/icodeff-blog/static/js/2.b0a11692.chunk.js",
+    "static/js/2.b0a11692.chunk.js.map": "/icodeff-blog/static/js/2.b0a11692.chunk.js.map",
     "index.html": "/icodeff-blog/index.html",
-    "static/css/main.78982062.chunk.css.map": "/icodeff-blog/static/css/main.78982062.chunk.css.map",
-    "static/js/2.373edfd8.chunk.js.LICENSE.txt": "/icodeff-blog/static/js/2.373edfd8.chunk.js.LICENSE.txt"
+    "static/css/main.dd1cef59.chunk.css.map": "/icodeff-blog/static/css/main.dd1cef59.chunk.css.map",
+    "static/js/2.b0a11692.chunk.js.LICENSE.txt": "/icodeff-blog/static/js/2.b0a11692.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.217f1ce2.js",
-    "static/js/2.373edfd8.chunk.js",
-    "static/css/main.78982062.chunk.css",
-    "static/js/main.0008ac26.chunk.js"
+    "static/js/2.b0a11692.chunk.js",
+    "static/css/main.dd1cef59.chunk.css",
+    "static/js/main.131d0233.chunk.js"
   ]
 }
